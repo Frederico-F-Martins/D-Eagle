@@ -2,7 +2,7 @@
 
 ![DiscEagleGitHubBanner copy](https://user-images.githubusercontent.com/56032914/129584197-e56424dd-5d61-4ee9-bb98-1092d4d31fe6.png)
 
-The Discord Eagle (D'Eagle) is a Python (Scrapy + Discord.py) Amazon price checker that sends you a discord message when price decreases.
+**The Discord Eagle (D'Eagle) is a Python (Scrapy + Discord.py) Amazon price checker that sends you a discord message when price decreases.**
 
 ---
 ## Usage
@@ -19,7 +19,7 @@ The Discord Eagle (D'Eagle) is a Python (Scrapy + Discord.py) Amazon price check
 
 ## Citation
 
-If for some reason you need to cite this software, please cite do it as per CITATION.cff):
+If, for some reason, you need to cite this software, please do it as per CITATION.cff:
 
 > Martins, Frederico F. *D'Eagle*, v1.0.0, 2021, https://github.com/Frederico-F-Martins/D-Eagle, DOI: Zenodo
 

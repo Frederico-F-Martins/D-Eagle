@@ -2,9 +2,11 @@
 
 ![DiscEagleGitHubBanner copy](https://user-images.githubusercontent.com/56032914/129584197-e56424dd-5d61-4ee9-bb98-1092d4d31fe6.png)
 
+
 **The Discord Eagle (D'Eagle) is a Python (Scrapy + Discord.py) Amazon price checker that sends you a discord direct message when price decreases.**
 
 The idea for this script came as I was avoiding to setup a SMTP server in order to get price warnings, so I decided to try to do it with a discord bot instead.
+
 
 ---
 ## Installation/Usage
@@ -26,16 +28,19 @@ The idea for this script came as I was avoiding to setup a SMTP server in order 
 > The bot will check the price every 12 hours if left permanently running. You will get a DM if the price has decreased and the bot will be disconnected.
 
 
+
 ## Citation
 
 If, for some reason, you need/want to cite this software, please do it as per CITATION.cff:
 
 > Martins, Frederico F. *D'Eagle*, v1.0.0, 2021, https://github.com/Frederico-F-Martins/D-Eagle, DOI: Zenodo
 
+
 ---
 ## Suggestions/Doubts
 
-If you have any doubts/suggestions, you can reach me at fred.martins94@gmail.com.
+If you have any doubts/suggestions, please open an issue in this repository.
+
 
 ## License
 

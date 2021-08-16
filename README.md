@@ -19,7 +19,12 @@ The idea for this script came as I was avoiding to setup a SMTP server in order 
 
 > If you don't know how to do it / are interested in using my bot, feel free to contact me.
 
-2-  Edit the script to input the three specific variables before running the script:
+2-  Install the Scrapy and Discord.py libraries
+
+> pip install scrapy
+> pip install discord.py
+
+3-  Edit the script to input the three specific variables before running the script:
 
 > discordID - Discord id (from dev mode) that you want the bot to send the price drop warning to;
 >
@@ -27,7 +32,7 @@ The idea for this script came as I was avoiding to setup a SMTP server in order 
 > 
 > item_url - Amazon URL for the item you want to follow.
 
-3- Run it with Python3.
+4- Run it with Python3.
 
 > The bot will check the price every 12 hours if left permanently running. You will get a DM if the price has decreased and the bot will be disconnected.
 

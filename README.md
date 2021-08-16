@@ -22,6 +22,7 @@ The idea for this script came as I was avoiding to setup a SMTP server in order 
 2-  Install the Scrapy and Discord.py libraries
 
 > pip install scrapy
+> 
 > pip install discord.py
 
 3-  Edit the script to input the three specific variables before running the script:

@@ -2,6 +2,10 @@
 
 ![DiscEagleGitHubBanner copy](https://user-images.githubusercontent.com/56032914/129584197-e56424dd-5d61-4ee9-bb98-1092d4d31fe6.png)
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Frederico-F-Martins/D-Eagle)
+![GitHub](https://img.shields.io/github/license/Frederico-F-Martins/D-Eagle)
+[![DOI](https://zenodo.org/badge/396712984.svg)](https://zenodo.org/badge/latestdoi/396712984)
+
 
 **The Discord Eagle (D'Eagle) is a Python (Scrapy + Discord.py) Amazon price checker that sends you a discord direct message when price decreases.**
 
@@ -33,7 +37,7 @@ The idea for this script came as I was avoiding to setup a SMTP server in order 
 
 If, for some reason, you need/want to cite this software, please do it as per CITATION.cff:
 
-> Martins, Frederico F. *D'Eagle - Discord bot Amazon Price Checker*, v1.0.0, 2021, https://github.com/Frederico-F-Martins/D-Eagle, DOI: Zenodo
+> Martins, Frederico F. *D'Eagle - Discord bot Amazon Price Checker*, v1.0.0, 2021, https://github.com/Frederico-F-Martins/D-Eagle, DOI: 10.5281/zenodo.5206819
 
 
 ---

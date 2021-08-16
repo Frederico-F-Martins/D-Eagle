@@ -4,7 +4,7 @@ authors:
 - family-names: "Ferreira Martins"
   given-names: "Frederico"
   orcid: "https://orcid.org/0000-0003-1458-2526"
-title: "D'Eagle - Discord bot Amazon Price Checker"
+title: "D'Eagle - Discord Bot Amazon Price Checker"
 version: 1.0.0
 doi: 10.5281/zenodo.5206819
 date-released: 2021-08-16

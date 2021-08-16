@@ -19,7 +19,7 @@ The idea for this script came as I was avoiding to setup a SMTP server in order 
 
 > If you don't know how to do it / are interested in using my bot, feel free to contact me.
 
-2-  Select the three specific variables before running the script:
+2-  Edit the script to input the three specific variables before running the script:
 
 > discordID - Discord id (from dev mode) that you want the bot to send the price drop warning to;
 >

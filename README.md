@@ -21,7 +21,7 @@ The idea for this script came as I was avoiding to setup a SMTP server in order 
 
 2-  Select the three specific variables before running the script:
 
-> discordID - Discord id (from dev mode) that you want the bot to send the price drop warning;
+> discordID - Discord id (from dev mode) that you want the bot to send the price drop warning to;
 >
 > bot_token - Token required to log into your discord bot;
 > 
@@ -37,7 +37,7 @@ The idea for this script came as I was avoiding to setup a SMTP server in order 
 
 If, for some reason, you need/want to cite this software, please do it as per CITATION.cff:
 
-> Martins, Frederico F. *D'Eagle - Discord bot Amazon Price Checker*, v1.0.0, 2021, https://github.com/Frederico-F-Martins/D-Eagle, DOI: 10.5281/zenodo.5206819
+> Martins, Frederico F. *D'Eagle - Discord Bot Amazon Price Checker*, v1.0.0, 2021, https://github.com/Frederico-F-Martins/D-Eagle, DOI: 10.5281/zenodo.5206819
 
 
 ---

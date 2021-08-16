@@ -33,7 +33,7 @@ The idea for this script came as I was avoiding to setup a SMTP server in order 
 
 If, for some reason, you need/want to cite this software, please do it as per CITATION.cff:
 
-> Martins, Frederico F. *D'Eagle*, v1.0.0, 2021, https://github.com/Frederico-F-Martins/D-Eagle, DOI: Zenodo
+> Martins, Frederico F. *D'Eagle - Discord bot Amazon Price Checker*, v1.0.0, 2021, https://github.com/Frederico-F-Martins/D-Eagle, DOI: Zenodo
 
 
 ---
